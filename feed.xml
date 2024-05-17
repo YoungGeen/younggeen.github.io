@@ -3,12 +3,38 @@
     <title>珞珈山第一深情</title>
     <link href="https://younggeen.github.io/feed.xml" rel="self" />
     <link href="https://younggeen.github.io" />
-    <updated>2024-05-17T17:28:37+08:00</updated>
+    <updated>2024-05-17T17:50:26+08:00</updated>
     <author>
         <name>ljs</name>
     </author>
     <id>https://younggeen.github.io</id>
 
+    <entry>
+        <title>two</title>
+        <author>
+            <name>ljs</name>
+        </author>
+        <link href="https://younggeen.github.io/two.html"/>
+        <id>https://younggeen.github.io/two.html</id>
+
+        <updated>2024-05-17T17:50:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello zheshi dierpian hadhad jdasdja fjasjf ahfjhaf fahfja faf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello  zheshi  dierpian</p>
+<p>hadhad</p>
+<p>jdasdja</p>
+<p>fjasjf</p>
+<p>ahfjhaf</p>
+<p>fahfja</p>
+<p>faf</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>first</title>
         <author>
