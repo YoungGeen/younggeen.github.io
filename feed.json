@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "珞珈山第一深情",
+    "description": "",
+    "home_page_url": "https://younggeen.github.io",
+    "feed_url": "https://younggeen.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ljs"
+    },
+    "items": [
+        {
+            "id": "https://younggeen.github.io/first.html",
+            "url": "https://younggeen.github.io/first.html",
+            "title": "first",
+            "summary": "hello，i am younggeen. hekafafasf",
+            "content_html": "<p>hello，i am younggeen.</p>\n<p>hekafafasf</p>\n<p> </p>",
+            "author": {
+                "name": "ljs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-17T17:28:37+08:00",
+            "date_modified": "2024-05-17T17:28:37+08:00"
+        }
+    ]
+}

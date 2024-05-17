@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>珞珈山第一深情</title>
+    <link href="https://younggeen.github.io/feed.xml" rel="self" />
+    <link href="https://younggeen.github.io" />
+    <updated>2024-05-17T17:28:37+08:00</updated>
+    <author>
+        <name>ljs</name>
+    </author>
+    <id>https://younggeen.github.io</id>
+
+    <entry>
+        <title>first</title>
+        <author>
+            <name>ljs</name>
+        </author>
+        <link href="https://younggeen.github.io/first.html"/>
+        <id>https://younggeen.github.io/first.html</id>
+
+        <updated>2024-05-17T17:28:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello，i am younggeen. hekafafasf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello，i am younggeen.</p>
+<p>hekafafasf</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
